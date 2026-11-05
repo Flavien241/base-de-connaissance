@@ -4,9 +4,9 @@ Ces parcours servent de base aux maquettes et aux échanges avec les utilisateur
 
 ## Consultation
 
-Le lecteur choisit une promotion, une échéance, une spécialité et éventuellement un genre. Il choisit le donneur d’ordres lorsque plusieurs référentiels sont disponibles. L’écran affiche les effectifs, la population et le nombre de réponses utiles. La fiche d’un indicateur explique sa formule, les exclusions, la source et la version de calcul.
+Le lecteur choisit une promotion, une formation, une échéance, une spécialité et éventuellement un genre. Les catégories étudiant/apprenti/continue dépendent d’une correspondance validée. Il choisit le demandeur lorsque plusieurs référentiels sont disponibles. L’écran affiche effectif, population et réponses utiles. La fiche explique formule, exclusions, source, enquête, filtres, version, lignes retenues et exclues. Aucune réponse individuelle n’est exposée.
 
-Un résultat indisponible affiche sa cause. Une population vide ne devient pas un taux de 0 %. L’export conserve les mêmes filtres, la définition et les métadonnées que l’écran. Le service de l’utilisateur détermine ses habilitations et les populations consultables.
+Un résultat indisponible affiche sa cause. Une population vide ne devient pas un taux de 0 %. Le seuil de masquage convenu pour les petits effectifs s’applique aussi à l’export. Celui-ci conserve filtres, définition et métadonnées. Le compte lecteur est rattaché à un service et à un périmètre autorisé, contrôlé aussi lors des exports.
 
 ## Import administrateur
 
@@ -14,7 +14,7 @@ L’administrateur choisit un fichier et son format attendu. Il prévisualise le
 
 ## Paramétrage administrateur
 
-L’administrateur choisit l’indicateur, le demandeur et la version. Il définit les paramètres et opérations autorisés, visualise leur signification puis enregistre une nouvelle version. Le prototype devra démontrer l’ajout d’un indicateur par configuration, sans redéveloppement du moteur, sur le périmètre d’opérations retenu.
+L’administrateur choisit indicateur, demandeur et version dans un écran guidé. Il définit champs, conditions, opération et dénominateur, puis crée une version ou désactive la définition. Opérations : comptage, égalité/appartenance/seuil numérique, ET/OU, ventilation et ratio de deux décomptes. Le prototype démontrera FI014 ajouté par configuration seule, après arbitrage sur les thèses.
 
 ## Génération du formulaire
 
@@ -22,7 +22,7 @@ Le personnel habilité choisit le demandeur, son modèle documentaire et la camp
 
 ## Comptes
 
-L’administrateur crée ou désactive un compte et attribue le rôle lecteur ou administrateur. Le lecteur ne peut ni changer une règle, ni importer une source, ni accéder aux exports bruts.
+L’administrateur crée ou désactive un compte et attribue rôle, service et périmètre. La démonstration emploiera un administrateur et deux lecteurs de services fictifs distincts. Le lecteur ne peut ni changer une règle, ni importer une source, ni accéder aux réponses individuelles ou à un autre périmètre.
 
 ## Écrans attendus pour la conception
 
@@ -34,3 +34,5 @@ L’administrateur crée ou désactive un compte et attribue le rôle lecteur ou
 - Choix du demandeur, aperçu du formulaire et rapport des champs manquants.
 
 Pour chaque écran, annoter les actions, les données visibles et les erreurs. Faire relire le parcours par un membre qui n’a pas produit la maquette puis le soumettre à la cliente.
+
+À la recette, une ou deux personnes d’un service devront filtrer un résultat puis exporter le formulaire sans aide. Les difficultés seront consignées et les blocages corrigés.

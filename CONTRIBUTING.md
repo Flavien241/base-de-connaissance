@@ -1,6 +1,6 @@
 # Contribuer au projet
 
-Chaque membre utilise son compte GitHub et fait relire ses modifications par un autre membre.
+Chaque membre utilisera son compte GitHub et fera relire ses modifications par un autre membre. Les commits décrivent les contributions réellement déposées, avec leur date effective.
 
 ## Préparer une modification
 
@@ -26,6 +26,8 @@ Ouvrir une pull request, demander une relecture et ajouter son lien à la fiche 
 
 ## Répartition
 
-Flavien suit le cadrage et le planning ; Ahdi, la conception technique et le développement ; Abderrahim, les fichiers et les règles ; Louka, les parcours et formulaires ; Rayen, les tests et les guides.
+La [répartition du README](README.md#équipe) attribue les modules : import et accès à Ahdi, moteur et modèle à Abderrahim, interface et formulaires à Louka, tests et guides à Rayen, coordination et hébergement à Flavien avec Ahdi.
 
-Une tâche passe dans Terminé lorsque son résultat est disponible et relu. Un point nécessitant une décision de la cliente reste dans En attente cliente. Les sources individuelles et les grilles personnelles sont conservées dans l’espace privé de l’équipe.
+Abderrahim calculera les valeurs attendues à la main ; Rayen préparera les jeux fictifs et exécutera les tests automatisés. La cliente approuvera les règles et les références métier.
+
+Une tâche passe dans Terminé lorsque son résultat est disponible et relu. Un point nécessitant une décision de la cliente reste dans En attente cliente. Chacun remplira sa grille officielle d’autoévaluation et ajoutera les liens de ses contributions aux tâches. Rayen et Flavien consolideront le bilan ; les grilles resteront privées. Les bases brutes sont exclues du dépôt ; leur stockage autorisé reste à convenir avec l’école.

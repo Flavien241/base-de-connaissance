@@ -2,11 +2,13 @@
 
 ## Choix à valider
 
-Le premier demandeur sera choisi avec la cliente. Les extraits CTI servent de référence ; il faut préciser le modèle à remplir, ses champs obligatoires et le format d’export attendu.
+La CTI est le premier demandeur envisagé, à confirmer avec la cliente. Objectif au 18 novembre : obtenir le modèle, les champs obligatoires, les formations et le format d’export. Sans modèle reçu au 20 novembre, l’extrait CTI 2023 servira de gabarit provisoire à faire approuver.
+
+Le pilote FI001/FI005/FI012, cible 4 décembre, ne remplit qu’une partie du formulaire. Au 18 décembre, les calculs devront couvrir tous les champs obligatoires du modèle convenu, y compris nombres de réponses et ventilations par promotion, formation et genre. Si le modèle exige davantage, le lot et sa date seront revus avec la cliente.
 
 ## Correspondance des champs
 
-Pour chaque champ, relever son libellé, le résultat attendu, la population, l’échéance, l’unité et le caractère obligatoire. Cette correspondance sera établie à partir du modèle retenu avec la cliente.
+Pour chaque champ, relever libellé, indicateur et version propres au demandeur, population, échéance, unité, statut obligatoire et règle de masquage. Les catégories étudiant/apprenti/formation continue nécessitent une correspondance validée, pas une déduction automatique du libellé de formation. Louka développera génération et export avec le moteur d’Abderrahim ; Ahdi prendra en charge les accès et Rayen les tests.
 
 ## Génération
 

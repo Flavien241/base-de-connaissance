@@ -1,6 +1,6 @@
 # Catalogue initial des indicateurs
 
-Référence de cadrage : 15 octobre 2026. Les méthodes ci-dessous reprennent les fiches reçues et seront validées avec la cliente.
+Version du 6 novembre 2026. Les méthodes reprennent les 15 fiches insertion et 3 fiches mobilité reçues ; elles restent à valider avec la cliente. Une définition et ses versions sont rattachées à un demandeur : deux demandeurs peuvent calculer différemment un indicateur de même nom.
 
 | Référence | Objet | Horizon indiqué par la fiche | Priorité proposée |
 |---|---|---|---|
@@ -23,7 +23,9 @@ Référence de cadrage : 15 octobre 2026. Les méthodes ci-dessous reprennent le
 | FI017 | Stages à l’étranger des diplômés | Dernière promotion | Extension mobilité |
 | FI018 | Durées de mobilité des doubles diplômés sortants | Dernière promotion | Extension mobilité |
 
-Le premier lot FI001/FI005/FI012 est une proposition pour vérifier le moteur. Le catalogue à réaliser doit couvrir les champs du premier formulaire convenu ; il pourra donc être modifié après choix du demandeur. Les indicateurs de réussite ne sont pas fournis dans le lot reçu et restent à définir pour une extension.
+Le pilote FI001/FI005/FI012, cible 4 décembre, vérifie trois décomptes fondés sur L (situation) et O (type d’études), sans dépendre du bloc d’emploi ambigu. Le catalogue complet des champs obligatoires du premier formulaire convenu est ciblé au 18 décembre ; il comprend ventilations par formation, promotion et genre et nombres de réponses. La CTI est l’hypothèse initiale, à confirmer. Les indicateurs de réussite et de mobilité restent en extension.
+
+Les fiches sont asymétriques : « cadre » est à 6 mois, « France » à 12 mois ; les données reçues sont à 6 et 18 mois. Ne pas inventer une mesure à 12 mois. Les titres « 6 mois après diplomation » des fiches mobilité ne fixent pas leur horizon d’observation : demander confirmation en extension.
 
 ## Contenu d’une fiche complète
 
@@ -37,4 +39,4 @@ Chaque indicateur retenu devra renseigner : identifiant stable, intitulé, deman
 
 **FI012** : compter les diplômés à 6 mois en poursuite d’études dont le type d’études appartient aux catégories de thèse validées.
 
-Les fichiers réels doivent être contrôlés pour la population cible, les non-réponses et les doublons. Aucun taux ne sera dérivé d’un dénominateur implicite. Le nombre de réponses au champ et les éventuels taux sont des résultats distincts, avec leurs règles propres.
+Les fichiers réels doivent être contrôlés pour la population cible, les non-réponses et les doublons. Aucun taux ne sera dérivé d’un dénominateur implicite. Le nombre de réponses au champ et les éventuels taux sont des résultats distincts, avec leurs règles propres. Les catégories, champs requis et résultats de référence seront validés ; l’ajout de FI014 servira de démonstration sans modification du moteur.
