@@ -1,6 +1,6 @@
 # Dictionnaire initial des données
 
-Proposition de noms métier à vérifier contre chaque feuille, sans valeur individuelle. Les 84 colonnes ne sont pas réputées identiques entre les enquêtes.
+Ce dictionnaire rapproche les noms utilisés dans l’application des colonnes des fichiers. La correspondance sera vérifiée pour chaque feuille, car les enquêtes présentent des différences.
 
 | Champ métier proposé | En-tête source ou signification | Contrôle prévu |
 |---|---|---|

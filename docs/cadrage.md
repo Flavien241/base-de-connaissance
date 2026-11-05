@@ -10,7 +10,7 @@ Le projet « Base de connaissance » doit aider les services de Polytech Lyon à
 
 L’outil doit importer les extractions d’insertion, signaler les erreurs, calculer les indicateurs, permettre leur consultation et remplir un premier formulaire. L’administrateur doit pouvoir ajouter ou modifier un indicateur à partir des champs et opérations disponibles sans modifier le programme.
 
-Nous commencerons par l’emploi, la recherche d’emploi et les thèses à 6 mois (FI001, FI005 et FI012). Ce choix sera ajusté aux champs du formulaire retenu avec la cliente.
+Le premier lot porte sur l’emploi, la recherche d’emploi et les thèses à 6 mois (FI001, FI005 et FI012). Il sera ajusté aux champs du formulaire retenu avec la cliente.
 
 ## Livrables
 

@@ -1,7 +1,9 @@
 # Préparer le mail à la cliente
 
-- Relire le cahier des charges et vérifier que les rôles et le planning conviennent à l’équipe.
+- Relire le périmètre et le planning en équipe.
 - Vérifier les accès au document partagé, au dépôt et au tableau Trello.
+- Préparer l’invitation Trello de Leila Belaribi uniquement, à son adresse professionnelle. L’invitation reste à envoyer.
+- Réserver l’édition des documents à l’équipe et prévoir l’accès de lecture de la cliente.
 - Mettre l’équipe en copie et proposer des disponibilités communes.
 - Demander le choix du premier demandeur et son modèle de formulaire.
 - Préparer les questions sur les échéances, les calculs, les sources et l’hébergement.

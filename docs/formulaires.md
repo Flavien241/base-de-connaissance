@@ -2,11 +2,11 @@
 
 ## Choix à valider
 
-Le premier demandeur réel n’est pas encore choisi. La CTI est un candidat possible au regard des extraits reçus, mais ces extraits ne prouvent pas qu’un modèle documentaire exploitable a été fourni. Demander à la cliente le formulaire vierge ou le modèle approuvé, sa version, ses champs obligatoires et le format d’export attendu.
+Le premier demandeur sera choisi avec la cliente. Les extraits CTI servent de référence ; il faut préciser le modèle à remplir, ses champs obligatoires et le format d’export attendu.
 
 ## Correspondance des champs
 
-Pour chaque champ, conserver un identifiant documentaire, son libellé, le demandeur, la population, la promotion, l’enquête, la définition et version d’indicateur, l’unité, le format d’affichage et le caractère obligatoire. La liste reste à compléter à partir du véritable modèle ; aucun champ de demandeur n’est inventé dans ce document.
+Pour chaque champ, relever son libellé, le résultat attendu, la population, l’échéance, l’unité et le caractère obligatoire. Cette correspondance sera établie à partir du modèle retenu avec la cliente.
 
 ## Génération
 

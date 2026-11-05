@@ -10,7 +10,7 @@ Déterminer demandeur, objectif, population, promotion, enquête et horizon. Fai
 
 Attribuer un identifiant stable et une version. Renseigner les filtres et une opération prise en charge par le moteur, par exemple un décompte, une agrégation ou un ratio avec numérateur et dénominateur séparés. Utiliser les identifiants métier du dictionnaire, pas les lettres Excel. Déclarer les champs requis et la gestion des valeurs manquantes.
 
-L’administrateur valide la configuration avant activation. Le moteur n’exécute pas de code arbitraire. Si un champ ou une opération n’existe pas, signaler le besoin et faire estimer l’évolution ; ne pas prétendre que tout indicateur possible est configurable sans développement.
+L’administrateur vérifie la configuration avant activation. Si le calcul demande un champ ou une opération que le moteur ne gère pas, l’équipe étudie l’évolution nécessaire.
 
 ## Vérifier puis publier
 

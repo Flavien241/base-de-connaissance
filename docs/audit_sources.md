@@ -29,6 +29,6 @@ Les lignes d’enquête sont des observations à des échéances différentes. N
 
 ## Contrôles à réaliser
 
-Unicité des clés au sein de chaque observation, types des champs, valeurs manquantes, catégories de genre et de réponse, homogénéité des formations et des situations, cohérence des horizons. Le présent inventaire structurel ne prouve pas que tous ces contrôles ont été exécutés.
+Les contrôles porteront sur les doublons, les types de champs, les valeurs manquantes, les catégories de réponse, les noms de formation et la cohérence des échéances.
 
 Références : bases insertion et mobilité fournies ; recueil des fiches du 14 février 2025 ; extraits CTI campagne 2023. Leur applicabilité à la campagne visée reste à confirmer.

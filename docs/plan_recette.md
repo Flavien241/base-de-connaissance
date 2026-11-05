@@ -1,6 +1,6 @@
 # Plan de recette initial
 
-Statut : tests à préparer, non exécutés. La cliente doit valider les définitions et les résultats de référence avant la recette.
+Les tests ci-dessous seront réalisés sur des exemples dont les résultats auront été vérifiés avec la cliente.
 
 | Test | Situation | Attendu |
 |---|---|---|
