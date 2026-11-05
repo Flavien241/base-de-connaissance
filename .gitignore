@@ -1,0 +1,29 @@
+# Sources et exports individuels
+data/
+donnees/
+private/
+raw/
+exports/
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.pdf
+*.zip
+*autoevaluation*
+*auto-evaluation*
+# Configuration et environnement
+.env
+.env.*
+!.env.example
+secrets/
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+Thumbs.db
+~$*
+
+# .gitignore ne retire pas un fichier déjà suivi : vérifier git status avant chaque commit.
