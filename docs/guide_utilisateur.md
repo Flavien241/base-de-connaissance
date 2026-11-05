@@ -1,6 +1,6 @@
 # Guide utilisateur par service
 
-Trame à finaliser après réalisation et recette. Les services exacts, leurs périmètres et les écrans restent à valider avec la cliente.
+Le guide décrit le parcours des lecteurs et de l’administration. Il sera précisé avec les écrans et les droits retenus pour chaque service.
 
 ## Personnel d’un service lecteur
 

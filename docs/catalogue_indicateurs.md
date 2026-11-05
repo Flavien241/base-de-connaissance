@@ -1,6 +1,6 @@
 # Catalogue initial des indicateurs
 
-Version documentaire du 5 novembre 2026. Les intitulés et méthodes proviennent des fiches fournies ; les divergences doivent être arbitrées par la cliente. Aucune formule de ce catalogue n’est annoncée comme approuvée ou implémentée.
+Référence de cadrage : 15 octobre 2026. Les méthodes ci-dessous reprennent les fiches reçues et seront validées avec la cliente.
 
 | Référence | Objet | Horizon indiqué par la fiche | Priorité proposée |
 |---|---|---|---|

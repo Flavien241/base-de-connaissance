@@ -1,28 +1,23 @@
-# Cadrage du projet
+# Cadrage
 
-Version de travail 0.3 du 5 novembre 2026, soumise à validation. Le cahier des charges de référence reste le document collaboratif partagé par l’équipe.
+Référence de cadrage : **15 octobre 2026**.
 
-## Besoin
+## Objectif
 
-Les services de Polytech Lyon produisent manuellement des résultats pour la CTI, l’université, les conseils de perfectionnement et les supports de formation. Une douzaine de systèmes sources sont identifiés dans la consigne ; leurs extractions doivent pouvoir être contrôlées et croisées lorsque les autorisations et clés le permettent. La cliente définit les indicateurs et leurs méthodes, avec des validations régulières.
+Le projet « Base de connaissance » doit aider les services de Polytech Lyon à calculer leurs indicateurs et à remplir les formulaires demandés par la CTI, l’université et les autres demandeurs.
 
-## Solution cible
+## Premier périmètre
 
-Le lecteur consulte des indicateurs et formulaires simplifiés, selon les habilitations de son service. L’administrateur importe et contrôle les extractions, gère les comptes, ajoute ou retire des indicateurs par configuration et conserve leurs versions. Le modèle distingue population et promotion, enquête, définition d’indicateur, résultat, formulaire et demandeur. Chaque champ de formulaire est traçable jusqu’à la source autorisée.
+L’outil doit importer les extractions d’insertion, signaler les erreurs, calculer les indicateurs, permettre leur consultation et remplir un premier formulaire. L’administrateur doit pouvoir ajouter ou modifier un indicateur à partir des champs et opérations disponibles sans modifier le programme.
 
-Les règles du Ministère restent à recueillir. Les paramètres de thèse ou VIE illustrent un mécanisme possible de configuration ; aucune définition du Ministère n’est déduite des documents CTI.
+Nous commencerons par l’emploi, la recherche d’emploi et les thèses à 6 mois (FI001, FI005 et FI012). Ce choix sera ajusté aux champs du formulaire retenu avec la cliente.
 
-## Prototype proposé
+## Livrables
 
-- Ingestion d’extractions insertion reconnues, avec contrôles et rapprochements lorsque les clés sont validées.
-- FI001, FI005 et FI012 à 6 mois, après validation des règles et résultats de référence.
-- Consultation habilitée par service et export agrégé.
-- Moteur générique à opérations bornées, historique des règles et preuve d’ajout d’un nouvel indicateur sans modifier le moteur.
-- Génération du formulaire d’un premier demandeur réel, depuis un modèle fourni ou approuvé par la cliente, et export dans le format convenu.
-- Documentation par service et guide d’ajout d’un indicateur.
+- Cahier des charges, rôles et planning.
+- Catalogue des indicateurs et méthodes de calcul.
+- Application, code source et tests.
+- Guide utilisateur par service et guide d’ajout d’un indicateur.
+- Démonstration sur le formulaire d’un demandeur réel.
 
-Le déroulement est : cadrage et catalogue validés → système d’information insertion → formulaire d’un premier demandeur → extensions mobilité et réussite. Les trois indicateurs proposés seront ajustés aux champs obligatoires du premier formulaire. L’éditeur de code libre, la collecte automatique et la mise en production institutionnelle restent des lots ultérieurs.
-
-## Validation
-
-La cliente doit approuver le périmètre, le catalogue et les méthodes, le premier demandeur et son modèle, les horizons, les clés de rapprochement, les habilitations et les exports. Son accord sera consigné avec version, date et réserves. La publication ne vaut pas validation cliente. Les accords de partage des systèmes sources peuvent être longs ; chaque indisponibilité doit être documentée et son impact arbitré.
+La priorité est l’insertion. La mobilité et la réussite seront traitées après ce premier parcours. Les règles et le modèle de formulaire seront validés avec Mme Belaribi pendant les points de suivi.

@@ -1,6 +1,6 @@
 # Guide d’ajout d’un indicateur
 
-Procédure de conception à mettre en correspondance avec l’interface réalisée puis à vérifier pendant la recette. Le moteur n’étant pas encore développé, les étapes ci-dessous ne décrivent pas des boutons existants.
+L’ajout suit trois étapes : définir l’indicateur avec la cliente, renseigner sa configuration, puis vérifier le résultat avant de l’activer.
 
 ## Préparer la définition avec la cliente
 

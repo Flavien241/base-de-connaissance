@@ -1,6 +1,6 @@
 # Audit préliminaire des sources
 
-État documentaire au 5 novembre 2026. Aucune réponse individuelle n’est reproduite ici.
+Repères sur la structure des fichiers fournis et les points de calcul à clarifier avec la cliente.
 
 ## Structure constatée
 

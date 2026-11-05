@@ -1,6 +1,6 @@
 # Parcours utilisateurs à maquetter
 
-Les parcours suivants décrivent la cible et les écrans à produire. Ils ne constituent pas des maquettes déjà réalisées.
+Ces parcours servent de base aux maquettes et aux échanges avec les utilisateurs.
 
 ## Consultation
 

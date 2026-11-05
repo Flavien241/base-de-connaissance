@@ -1,6 +1,6 @@
-# Architecture proposée
+# Conception technique
 
-Proposition à confirmer après un essai d’import et selon les compétences de l’équipe. Aucun logiciel déployé n’est annoncé par ce document.
+L’outil comporte un import de fichiers, une base de données, un module de calcul et un générateur de formulaires. Les technologies seront choisies après un essai sur les fichiers fournis.
 
 ## Composants
 
